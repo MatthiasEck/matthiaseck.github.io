@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hermit-V2' 
+theme = 'hermit-v2' 
 publishDir = 'docs'
